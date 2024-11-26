@@ -8,7 +8,7 @@ GEM
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     dotenv (2.2.2)
-    excon (0.64.0)
+    excon (0.71.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     httparty (0.15.7)
